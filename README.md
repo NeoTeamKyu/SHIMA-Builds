@@ -15,8 +15,9 @@ ROMs built directly from the source repositories for SHIMA.
 ROMs posted in the SHIMA Discord server for playtesters (and server members (early on)) to
 play.
 
+### SHC Crunch
 
-
+ROMs built from every commit for the final week(ish) before the SHC2022 deadline. Includes LOTS of changes done in such a short amount of time.
 
 
 
